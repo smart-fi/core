@@ -2,7 +2,7 @@
 A .NET console client library to read data from excel and push to FIWARE Orion Context Broker
 
 
-# FIWARE.Orion.Client
+# SMARTFI.OrionContextBroker.Client (FIWARE.Orion.Client)
 A .NET portable client library for the FIWARE Orion Context Broker
 
 # Introduction
