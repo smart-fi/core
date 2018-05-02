@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PointOfInterest>
+  <address>
+    <metadata />
+    <type>StructuredValue</type>
+    <value>
+      <addressCountry>TR</addressCountry>
+      <addressLocality>Dabakhane Mahallesi, Yeni Boztepe  7 A, Malatya Merkez/Malatya</addressLocality>
+    </value>
+  </address>
+  <category>
+    <metadata />
+    <type>StructuredValue</type>
+    <value>
+      <attr>177</attr>
+    </value>
+  </category>
+  <description>
+    <metadata />
+    <type>Text</type>
+    <value>Birbirinden farklı ve çeşit dolu bakır süs ve mutfak eşyalarının bulundu</value>
+  </description>
+  <id>PointOfInterest-64933</id>
+  <location>
+    <metadata />
+    <type>StructuredValue</type>
+    <value>
+      <coordinates>
+        <attr>38.35068</attr>
+        <attr>38.316643</attr>
+      </coordinates>
+      <type>Point</type>
+    </value>
+  </location>
+  <name>
+    <metadata />
+    <type>Text</type>
+    <value>ÇİÇEK TİCARET</value>
+  </name>
+  <refSeeAlso>
+    <metadata />
+    <type>StructuredValue</type>
+    <value>
+      <attr />
+    </value>
+  </refSeeAlso>
+  <source>
+    <metadata />
+    <type>Text</type>
+    <value>Malatya Metropolitan Municipality</value>
+  </source>
+  <type>PointOfInterest</type>
+</PointOfInterest>

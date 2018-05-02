@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POI>
+  <attr>
+    <Address>
+      <type>String</type>
+      <value>GÖZENE GÖZENEYENİ100 10  C</value>
+    </Address>
+    <Category>
+      <type>String</type>
+      <value>TİCARET ALANLARI, SATIŞ NOKTALARI, İŞYERLERİ</value>
+    </Category>
+    <CategoryID>
+      <type>String</type>
+      <value>11</value>
+    </CategoryID>
+    <District>
+      <type>String</type>
+      <value>GÖZENE</value>
+    </District>
+    <Door>
+      <type>String</type>
+      <value>10</value>
+    </Door>
+    <Group>
+      <type>String</type>
+      <value>BESİ</value>
+    </Group>
+    <GroupID>
+      <type>String</type>
+      <value>2508</value>
+    </GroupID>
+    <Street>
+      <type>String</type>
+      <value>GÖZENEYENİ100</value>
+    </Street>
+    <Subcategory>
+      <type>String</type>
+      <value>HAYVANCILIK</value>
+    </Subcategory>
+    <SubcategoryID>
+      <type>String</type>
+      <value>202</value>
+    </SubcategoryID>
+    <Subdoor>
+      <type>String</type>
+      <value> C</value>
+    </Subdoor>
+    <Tel>
+      <type>String</type>
+      <value />
+    </Tel>
+    <X>
+      <type>String</type>
+      <value>38,2218142447809</value>
+    </X>
+    <Y>
+      <type>String</type>
+      <value>38,0119319346938</value>
+    </Y>
+    <description>
+      <type>String</type>
+      <value />
+    </description>
+    <id>POI-1002893</id>
+    <name>
+      <type>String</type>
+      <value>MESDA ÇİFTLİĞİ</value>
+    </name>
+    <type>POI</type>
+  </attr>
+</POI>
